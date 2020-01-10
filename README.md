@@ -10,3 +10,6 @@ Numpy
 Matplotlib
 XGBoost
 scikit-learn
+
+### Objective
+This project was done to implement a machine learning model to predict type of mutations.ELASPIC was used to extract features from INTACT mutation interaction dataset.
